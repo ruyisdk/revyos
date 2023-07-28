@@ -45,12 +45,12 @@ CoreMark是一个综合基准，用于测量嵌入式系统中使用的中央处
 - run1.log - 用性能参数运行基准测试，并输出到 run1.log
 - run2.log - 用验证参数运行基准测试，并输出到 run2.log
 - run3.log - 用配置文件生成参数运行基准测试，并输出到 run3.log
-- complie - 编译基准测试可执行文件
+- compile - 编译基准测试可执行文件
 - link - 链接基准测试可执行文件
 - check - 测试可能未修改的源文件的 MD5
 - clean - 清理临时文件
 ### 编译/使用
-根据 README 说法，只需要在 coremark 文件夹下执行 make 即可进行编译与测试。测试结果会出现在 Resluts 文件夹中，其中 run1.log 是测试结果。
+根据 README 说法，只需要在 coremark 文件夹下执行 make 即可进行编译与测试。测试结果会出现在 Results 文件夹中，其中 run1.log 是测试结果。
 ## 测试计划
 coremark 总体测试时间较短。
 计划同时测试 10 次取平均数值。
