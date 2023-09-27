@@ -16,7 +16,7 @@ __RevyOS__ 的Lichee Pi 4A用户版镜像目前在 ISCAS（中国科学院软件
 
 镜像刷写请参考：[镜像刷写教程](https://wiki.sipeed.com/hardware/zh/lichee/th1520/lpi4a/4_burn_image.html#%E6%89%B9%E9%87%8F%E7%83%A7%E5%BD%95)
 
-__RevyOS__ 最新版镜像为 20230916 版本，本版本下载链接为：[RevyOS 00916版本下载](https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20230916/)
+__RevyOS__ 最新版镜像为 20230916 版本，本版本下载链接为：[RevyOS 0916版本下载](https://mirror.iscas.ac.cn/revyos/extra/images/lpi4a/20230916/)
 
 本链接内包含 U-boot、boot以及 root 文件，刷写方式请参考[镜像刷写教程](https://wiki.sipeed.com/hardware/zh/lichee/th1520/lpi4a/4_burn_image.html#%E6%89%B9%E9%87%8F%E7%83%A7%E5%BD%95)。
 
@@ -25,8 +25,6 @@ __RevyOS__ 最新版镜像为 20230916 版本，本版本下载链接为：[Revy
 ## 更新与预告
 
 镜像版本更新后我们会公布当前版本镜像支持内容，如您想查看镜像支持内容请点击[RevyOS版本更新日志](./Change%20Log/)后选择您所需要的版本进行查看。
-
-同时我们会在[此界面](./update%20notice.md)发布下版本预期更新内容，您可在该页面进行查看。
 
 ## issue相关
 
